@@ -1,0 +1,19 @@
+{
+  "name": "api-req-practice-hubspot",
+  "version": "1.0.0",
+  "description": "Practice for coding screening",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChaDown/hubspot-practice.git"
+  },
+  "author": "Charlie Downes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaDown/hubspot-practice/issues"
+  },
+  "homepage": "https://github.com/ChaDown/hubspot-practice#readme"
+}
